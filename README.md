@@ -4,4 +4,4 @@ Trevail et al., Tracking seabird migration in the tropical Indian Ocean reveals 
 
 This repository contains:
 - Updated colony locations for seabirds in the Western Indian Ocean, based on co-authors knowledge
-- Code to run habitat selection models
+- Code to calculate observed species richness, run habitat selection models and predict species richness, and calculate residency
